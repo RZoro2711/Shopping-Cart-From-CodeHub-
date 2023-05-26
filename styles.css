@@ -1,0 +1,17 @@
+.card {
+  height: auto;
+}
+img {
+  height: 200px;
+}
+#img-cart {
+  width: 80px;
+  height: 50px;
+  cursor: pointer;
+}
+i {
+  cursor: pointer;
+}
+.table{
+  height: auto;
+}
